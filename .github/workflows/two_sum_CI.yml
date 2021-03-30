@@ -1,4 +1,4 @@
-name: Flask CICD
+name: TwoSum CI
 
 # Running condition
 on:
