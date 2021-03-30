@@ -25,5 +25,5 @@ if __name__ == '__main__':
     # local unit test
     test_arr = [1,2,3,5]
     test_target_value = 8
-    print('Result : ',Two_Sum(test_arr, test_target_value))
+    #print('Result : ',Two_Sum(test_arr, test_target_value))
 
